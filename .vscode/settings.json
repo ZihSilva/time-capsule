@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.codeAction.disableRuleComment": {
+    "enable": false
+  },
+  "typescript.validate.enable": true,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "jsx"
+  }
+}
